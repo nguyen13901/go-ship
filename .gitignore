@@ -1,1 +1,10 @@
 /venv
+# 
+/api_user/__pycache__
+*/views/__pycache__
+*/serializers/__pycache__
+*/models/__pycache__
+*/migrations/__pycache__
+*/__pycache__
+
+/src/__pycache__
